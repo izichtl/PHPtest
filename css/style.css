@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: rgb(236, 234, 232, .7);
+    margin-bottom: 20px;
+}
+.jumbotron{
+    background-color: rgb(236, 234, 232, .7);
+}
+.body{
+    display: flex;
+    margin-top: auto;
+}
+.container-fluid{
+    background-image: url('/img/mapbg.jpg');
+    height: 100vh;
+}
